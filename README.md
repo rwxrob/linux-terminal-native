@@ -1,6 +1,4 @@
-# Linux Terminal Native Boost
-
-![WIP](https://img.shields.io/badge/status-wip-red.svg)
+# 💻 Linux Terminal Native Boost
 
 Start *living* in the Linux terminal. Get started right. Here’s what
 we’ll learn:
